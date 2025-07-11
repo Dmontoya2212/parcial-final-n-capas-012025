@@ -7,7 +7,7 @@ Este repositorio contiene un proyecto para evaluar y practicar los conceptos de 
 ### Estudiantes
 - **Nombre del estudiante 1**: [Diego Alejandro Montoya Ramírez] - [00087522]
 - **Nombre del estudiante 2**: [Tu nombre aquí] - [Carnet aquí]
-- Sección: [Tu sección aquí]
+- Sección: [02]
 ---
 
 ## Sistema de Soporte Técnico
